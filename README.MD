@@ -1,2 +1,3 @@
 # Тренировка работы с Гитом и Гитхабом
-First commit
+## First commit
+### Second commit
